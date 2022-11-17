@@ -1,0 +1,12 @@
+com\li\repository\RecommSMRepository.class
+com\li\repository\RecommMsRepository.class
+com\li\dao\MajorMapper.class
+com\li\repository\MajorsReposiory.class
+com\li\dao\HotSearchMapper.class
+com\li\repository\XyhrankRepository.class
+com\li\dao\RoleUsersMapper.class
+com\li\dao\UsersMapper.class
+com\li\repository\CollegesRepository.class
+com\li\dao\CategoryMapper.class
+com\li\dao\PermissionMapper.class
+com\li\dao\SyslogMapper.class

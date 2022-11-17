@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1a049b62-2e52-4727-a619-36a66179298e" name="192" url="http://cloud.eic.hust.edu.cn">
+        <fileTransfer host="cloud.eic.hust.edu.cn" port="22192" rootFolder="/home/hadoop" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22192" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
